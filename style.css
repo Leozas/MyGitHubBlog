@@ -1,6 +1,27 @@
-body{
+/* REF THIS IMAGE FOR BLOG DESIGN DIRECTION: https://assets-global.website-files.com/583347ca8f6c7ee058111b55/583347ca8f6c7ee058112130_Screenshot%202015-11-16%2014.50.12.png */
+
+/* Pagewide CSS */
+html {
+	font-family: 'Arvo', serif;
+  font-size: 10px;
+  background-color: #ccc;
 }
-header{
+
+
+/* home formatting */
+
+.malpic_main {
+  height: 20em;
+  width: 15em;
+
 }
-footer{
+.malpic_main img {
+	height: 15em;
+
 }
+/* */
+/* */
+/* */
+/* */
+/* */
+/* */
